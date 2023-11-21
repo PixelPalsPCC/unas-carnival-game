@@ -61,55 +61,55 @@ li {
 }
 
 li:nth-child(1) input {
-    filter: hue-rotate(208.7122954762deg) brightness(1.8215284146);
+    /* filter: hue-rotate(208.7122954762deg) brightness(1.8215284146); */
     -webkit-animation-duration: 2.8690485724s;
     animation-duration: 2.8690485724s;
 }
 
 li:nth-child(2) input {
-    filter: hue-rotate(104.1372324669deg) brightness(1.8214921585);
+    /* filter: hue-rotate(104.1372324669deg) brightness(1.8214921585); */
     -webkit-animation-duration: 0.8022445951s;
     animation-duration: 0.8022445951s;
 }
 
 li:nth-child(3) input {
-    filter: hue-rotate(192.1877982772deg) brightness(1.4055730759);
+    /* filter: hue-rotate(192.1877982772deg) brightness(1.4055730759); */
     -webkit-animation-duration: 1.9524807111s;
     animation-duration: 1.9524807111s;
 }
 
 li:nth-child(4) input {
-    filter: hue-rotate(84.2687497435deg) brightness(1.3409887706);
+    /* filter: hue-rotate(84.2687497435deg) brightness(1.3409887706); */
     -webkit-animation-duration: 1.4914611333s;
     animation-duration: 1.4914611333s;
 }
 
 li:nth-child(5) input {
-    filter: hue-rotate(193.2589496062deg) brightness(1.9640962993);
+    /* filter: hue-rotate(193.2589496062deg) brightness(1.9640962993); */
     -webkit-animation-duration: 2.8537159289s;
     animation-duration: 2.8537159289s;
 }
 
 li:nth-child(6) input {
-    filter: hue-rotate(14.5334856283deg) brightness(1.8445554743);
+    /* filter: hue-rotate(14.5334856283deg) brightness(1.8445554743); */
     -webkit-animation-duration: 0.5609865833s;
     animation-duration: 0.5609865833s;
 }
 
 li:nth-child(7) input {
-    filter: hue-rotate(348.0826236418deg) brightness(1.1657796032);
+    /* filter: hue-rotate(348.0826236418deg) brightness(1.1657796032); */
     -webkit-animation-duration: 4.6801936873s;
     animation-duration: 4.6801936873s;
 }
 
 li:nth-child(8) input {
-    filter: hue-rotate(282.0451060385deg) brightness(1.0042561588);
+    /* filter: hue-rotate(282.0451060385deg) brightness(1.0042561588); */
     -webkit-animation-duration: 4.8215108863s;
     animation-duration: 4.8215108863s;
 }
 
 li:nth-child(9) input {
-    filter: hue-rotate(140.1721494631deg) brightness(1.3806726622);
+    /* filter: hue-rotate(140.1721494631deg) brightness(1.3806726622); */
     -webkit-animation-duration: 3.7410681913s;
     animation-duration: 3.7410681913s;
 }
