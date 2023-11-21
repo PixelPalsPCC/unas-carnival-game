@@ -121,7 +121,7 @@ input[type=checkbox] {
     cursor: crosshair;
     /* background: radial-gradient(red 10%, white 10%, white 30%, red 30%, red 50%, white 50%, white 80%, red 80%, red 100%); */
     background-size: contain;
-    background-image: url(assets/sports-sportsmanias.gif);
+    background-image: url(sports-sportsmanias.gif);
     border-radius: 50%;
     display: block;
     left: 0;
