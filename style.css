@@ -227,7 +227,7 @@ input[type=checkbox]:checked:after {
     -webkit-animation: appear 0.25s forwards;
     animation: appear 0.25s forwards;
     -webkit-animation-delay: 15s;
-    animation-delay: 15s;
+    animation-delay: 10s;
     background: repeating-linear-gradient(-45deg, #be1e2d 0, #be1e2d 5em, #FFC629 5em, #FFC629 10em);
 }
 
